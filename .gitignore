@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit state
+.streamlit/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+env/
+venv/
+.venv/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Output
+ocr_results.*
